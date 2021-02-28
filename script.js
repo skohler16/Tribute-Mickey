@@ -1,0 +1,1 @@
+const projectName = 'mickey tribute page'
